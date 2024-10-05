@@ -1,11 +1,18 @@
 ---
-layout: default
-title: "Página principal"
+layout: home
+title: "Bienvenido a Mi Pagina Jekyll"
 ---
 
-# Bienvenido a mi pagina jekyll
+# Iker Muñoz Herrero
 Aquí está la documentación de mi proyecto.
 
 ## Documentación
-- [Instalación](docs/instalacion.md)
-- [Primeros pasos](docs/empezar.md)
+- [Guía de Instalación](docs/instalacion.md)
+- [Empezar a Usar](docs/empezar.md)
+
+### Contáctame
+Si tienes preguntas, no dudes en contactarme.
+
+
+
+

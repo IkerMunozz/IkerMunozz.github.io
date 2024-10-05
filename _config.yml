@@ -22,6 +22,8 @@ title: "Documentación de mi Proyecto"
 description: "Este sitio web documenta mi proyecto"
 baseurl: "" # No uses / para GitHub Pages
 url: "https://IkerMunozz.github.io"
+theme: minimal-mistakes-jekyll
+
 
 
 # Exclude from processing.
